@@ -7,7 +7,7 @@ I'm an information engineer. I live in Rome - Italy :it:
 * Twitter: https://twitter.com/AlexandroSas98
 * Instagram: https://www.instagram.com/alexandro.sas/
 * YouTube: https://www.youtube.com/channel/UCFz_mZXOTDt9hBtlzXCSluA
-## Graduation Mark
+## Graduation Marks
 * Bachelor Degree : 106/110
 * Highschool : 100/100
 
@@ -18,5 +18,5 @@ I'm an information engineer. I live in Rome - Italy :it:
 * Photography :camera:
 * Draw :penbrush:
 * Play Football :soccer:
-* Calisthenics & Work Out :weight_lifiting:
+* Calisthenics & Work Out :weight_lifting:
 * Film & Tv Series :film_strip:
