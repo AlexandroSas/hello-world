@@ -1,5 +1,5 @@
 # Hello World - Alexandro Sas
-I'm an information engineer. I live in Rome - Italy :it:
+I'm an information engineer. I live in Rome - Italy
 
 ## Socialnetwork Links
 * Website: https://alexandrosas.github.io/home/
