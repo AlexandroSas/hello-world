@@ -16,7 +16,7 @@ I'm an information engineer. I live in Rome - Italy :it:
 * Music Production :headphones:
 * Play Piano :musical_keyboard:
 * Photography :camera:
-* Draw :penbrush:
+* Draw :art:
 * Play Football :soccer:
 * Calisthenics & Work Out :weight_lifting:
 * Film & Tv Series :film_strip:
