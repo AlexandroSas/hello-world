@@ -1,6 +1,22 @@
-# hello-world
+# Hello World - Alexandro Sas
+I'm an information engineer. I live in Rome - Italy :it:
 
-I'm a computer science student, I live close to Rome (italy) 
-I play piano, draw, do calisthenics and I work as a tutor for high school students.
+## Socialnetwork Links
+* Website: https://alexandrosas.github.io/home/
+* LinkedIn: https://www.linkedin.com/in/alexandro-sas-09aba11b1
+* Twitter: https://twitter.com/AlexandroSas98
+* Instagram: https://www.instagram.com/alexandro.sas/
+* YouTube: https://www.youtube.com/channel/UCFz_mZXOTDt9hBtlzXCSluA
+## Graduation Mark
+* Bachelor Degree : 106/110
+* Highschool : 100/100
 
-I love play football and hang out with friends.
+## Hobbies
+* Coding :computer:
+* Music Production :headphones:
+* Play Piano :musical_keyboard:
+* Photography :camera:
+* Draw :penbrush:
+* Play Football :soccer:
+* Calisthenics & Work Out :weight_lifiting:
+* Film & Tv Series :film_strip:
