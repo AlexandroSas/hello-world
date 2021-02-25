@@ -1,5 +1,7 @@
 # Hello World - Alexandro Sas
-I'm an information engineer. I live in Rome - Italy
+I'm an information engineer. 
+360° Artist. Photographer & Videomaker. Always looking for new Adventures that can level me up. 
+Currently residing in Aprilia(LT), Italy.
 
 ## Socialnetwork Links
 * Website: https://alexandrosas.github.io/home/
